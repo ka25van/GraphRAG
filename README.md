@@ -1,0 +1,1 @@
+Just a extended tryout of using neo4j and Langchain for Knowledge RAG. Used model here is llama 3.2:latest and it's light weight and supports my system. Better model better the framed response. Will be continuuing it soon. Bye
